@@ -49,7 +49,7 @@ python pong_game.py
 - Score tracking
 - Sound effects
 - Dynamic ball acceleration
-- Win condition at 10 points
+- Win condition at 10 points 
 
 ## Credits
 
